@@ -1,2 +1,0 @@
-# HibernateProjects
-Hibernate Projects 
